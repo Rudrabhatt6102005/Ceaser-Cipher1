@@ -1,1 +1,1 @@
-# Ceaser-Cipher1
+Here's a simple Python program that implements the Caesar Cipher for both encryption and decryption. The user is prompted to enter a message and a shift value, and they can choose whether to encrypt or decrypt the text.# Ceaser-Cipher1
